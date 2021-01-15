@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UzaySavasOyunu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/UzaySavasOyunu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
